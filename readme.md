@@ -10,3 +10,5 @@ for reference this is what the true color looks like:
 ![](Voynich_102v1_PSC-small.png)
 
 someone must have come and erased this carrot stuff
+
+this looks extremely similar to page [101v](https://collections.library.yale.edu/uv/uv.html#?manifest=https://collections.library.yale.edu/manifests/2002046&cv=0) however it is not identical.
